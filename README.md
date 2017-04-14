@@ -331,7 +331,7 @@ mevcut satırdan bir kelime siler:
 ```sh
  Ctrl+W
 ```
-tüm satırı siler:
+İmlecin solundaki tüm karakterleri siler:
 ```sh
  Ctrl+U
 ```
