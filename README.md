@@ -1,6 +1,18 @@
 
 Temel Linux Komutları
 
+# Başlıklar:
+- [x] [Dosya İşlemleri](https://github.com/enlicayomer/Linux_Command#dosya-İşlemleri)
+- [x] [Süreç(Process) Yönetimi](https://github.com/enlicayomer/Linux_Command#süreçprocess-yönetimi)
+- [x] [Dosya İzinleri](https://github.com/enlicayomer/Linux_Command#dosya-İzinleri)
+- [x] [SSH](https://github.com/enlicayomer/Linux_Command#ssh)
+- [x] [Arama](https://github.com/enlicayomer/Linux_Command#arama)
+- [x] [Sistem Bilgileri](https://github.com/enlicayomer/Linux_Command#sistem-bilgileri)
+- [x] [Sıkıştırma İşlemleri](https://github.com/enlicayomer/Linux_Command#sıkıştırma-İşlemleri)
+- [x] [Ağ](https://github.com/enlicayomer/Linux_Command#ağ)
+- [x] [Yazılım Derleme/Kurma](https://github.com/enlicayomer/Linux_Command#yazılım-derlemekurma)
+- [x] [Klavye Kısa Yolları](https://github.com/enlicayomer/Linux_Command#klavye-kısa-yolları)
+
 ### Dosya İşlemleri
 
 Dosyaları listeler:
