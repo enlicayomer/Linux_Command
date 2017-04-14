@@ -1,7 +1,7 @@
 
-Temel Linux Komutları
+# Temel Linux Komutları
 
-# Başlıklar:
+## Başlıklar:
 - [x] [Dosya İşlemleri](https://github.com/enlicayomer/Linux_Command#dosya-İşlemleri)
 - [x] [Süreç(Process) Yönetimi](https://github.com/enlicayomer/Linux_Command#süreçprocess-yönetimi)
 - [x] [Dosya İzinleri](https://github.com/enlicayomer/Linux_Command#dosya-İzinleri)
